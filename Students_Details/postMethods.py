@@ -18,7 +18,7 @@ def base_url():
 
 def test_new_StudentDetails(base_url):
     body = {
-        "id": 1,
+        # "id": 1,
         "first_name": "Md",
         "middle_name": "Rased",
         "last_name": "Sikder",
